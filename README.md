@@ -2,7 +2,7 @@
 Project for cits3007
 
 ## TODO
-- [ ] Handle error message.
-- [ ] hand setuid privileges.
-- [ ] Documentation.
-- [ ] Unit testing.
+- [x] Handle error message.
+- [x] hand setuid privileges.
+- [x] Documentation.
+- [x] Unit testing.
